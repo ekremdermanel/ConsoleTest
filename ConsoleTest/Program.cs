@@ -8,6 +8,10 @@ namespace ConsoleTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Merhaba");
+            if (1==1)
+            {
+                Console.WriteLine("bir eşit bir");
+            }
         }
     }
 }
