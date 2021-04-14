@@ -7,6 +7,10 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             Console.WriteLine("Merhaba Dünya");
+            if (true)
+            {
+                Console.WriteLine("OK");
+            }
         }
     }
 }
